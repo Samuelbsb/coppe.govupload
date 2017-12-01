@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<layers>
+ <layer remove="True"
+        name="coppe.govupload.layer"
+        interface="coppe.govupload.interfaces.IUploadBrowserLayer" />
+</layers>

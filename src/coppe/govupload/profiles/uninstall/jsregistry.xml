@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts">
+  <javascript remove="True" id="++resource++coppe.govupload/vendor/jquery.getimagedata.min.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/vendor/jquery.ui.widget.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/tmpl.min.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/load-image.min.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/canvas-to-blob.min.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/jquery.iframe-transport.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/jquery.fileupload.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/jquery.fileupload-fp.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/jquery.fileupload-ui.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/vendor/bootstrap.min.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/main.js"/>
+  <javascript remove="True" id="++resource++coppe.govupload/cors/jquery.xdr-transport.js"/>

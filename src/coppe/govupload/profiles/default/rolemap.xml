@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rolemap>
+ <permissions>
+  <permission name="coppe.govupload: Upload Files" acquire="True">
+   <role name="Manager"/>
+   <role name="Site Administrator"/>
+   <role name="Owner"/>
+   <role name="Contributor"/>
+   <role name="Member" />
+   <role name="Reviewer" />
+  </permission>
+ </permissions>
+</rolemap>
